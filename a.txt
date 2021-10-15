@@ -1,3 +1,6 @@
+
+added from simpleProject2
+
 added more commit from actual folder
 added first comment
 addded from simpleProject2 first commit
